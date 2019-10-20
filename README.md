@@ -1,3 +1,5 @@
 # CNU-2019-Spring-DataCommunication
-- Computer Science Engineer
+- ChungNam National University
+- Computer Science Engineering
+- 201502023 MinKi Kim
 - Professor : YoungSeok Lee
